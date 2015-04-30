@@ -5,10 +5,10 @@ html {
   width: 320px;
 }
 
-#main {
-  width: 320px;
+
+  width: 0px;
   margin: 0;
-}
+
 
 .horizontal {
   width: 150px;
