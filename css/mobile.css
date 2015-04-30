@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=News+Cycle|Open+Sans);
+@media (max-width: 320px) {
+
+html {
+  width: 320px;
+}
+
+#main {
+  width: 320px;
+  margin: 0;
+}
+
+.horizontal {
+  width: 150px;
+}
+
+
+#aboutmenav {
+  width: 150px;
+}
+}
